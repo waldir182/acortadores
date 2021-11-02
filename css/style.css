@@ -81,3 +81,11 @@ main {
 .card-body a:hover {
 	background: rgba(0, 0, 0, 0.1);
 }
+
+@media query and screen(max-width:  800px) {
+	.card {
+		margin:  0 5px;
+		margin-bottom: 20px;
+		min-width: 40%;
+	}
+}
