@@ -3,7 +3,7 @@
   "short_name": "#Acortadores shortname",
   "description": "Acortadores description",
   "background_color": "#8484B3",
-  "theme_color": "#F0DB4F",
+  "theme_color": "#8484B3",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
