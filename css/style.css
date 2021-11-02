@@ -89,4 +89,7 @@ main {
 		min-width: 100px;
 		width: 40%;
 	}
+main {
+     padding:5px;
+}
 }
