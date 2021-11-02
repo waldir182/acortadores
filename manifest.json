@@ -2,7 +2,7 @@
   "name": "#Acortadores name",
   "short_name": "#Acortadores shortname",
   "description": "Acortadores description",
-  "background_color": "#2B2B2B",
+  "background_color": "#8484B3",
   "theme_color": "#F0DB4F",
   "orientation": "portrait",
   "display": "standalone",
