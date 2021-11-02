@@ -82,10 +82,11 @@ main {
 	background: rgba(0, 0, 0, 0.1);
 }
 
-@media query and screen(max-width:  800px) {
+@media  (max-width: 758px) {
 	.card {
 		margin:  0 5px;
-		margin-bottom: 20px;
-		min-width: 40%;
+		margin-bottom: 10px;
+		min-width: 200px;
+		width: 40%;
 	}
 }
